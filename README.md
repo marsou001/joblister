@@ -1,6 +1,6 @@
 This is an old project that I've done a while ago while learning PHP.
 
-It is a follow up from [https://www.youtube.com/watch?v=LEkjrQMmIK0](Brad Traversy's tutorial on YouTube).
+It is a follow up from [Brad Traversy's tutorial on YouTube](https://www.youtube.com/watch?v=LEkjrQMmIK0).
 
 This app allows users to create, read, update, and delete a job listing with ease (CRUD).
 
